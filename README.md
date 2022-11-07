@@ -3,6 +3,7 @@
 This is a full-hand case for Alpaca Keyboards' Hot Dox V2:
 
 https://alpacakeyboards.com/
+
 https://kono.store/products/ergodox-76-hot-dox-mechanical-keyboard-v2
 
 ![Case Render](Hot%20Dox%20v2%20Render.png)
